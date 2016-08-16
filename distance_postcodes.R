@@ -10,7 +10,7 @@ library(gmapsdistance)
 API_key <- "AIzaSyAQND4Ah_R-5lLbuBQQLCVeNkm82c9xZ9k"
 
 #Read the pimplico postcodes
-user_dt <- read.csv("Second_part_store_postcodes.csv")
+user_dt <- read.csv("First_part_store_postcodes.csv")
 
 #Read the store location for pimlico
 store_loc <- fromJSON(file = "pimlico_store_location.json")
@@ -21,7 +21,7 @@ location <- store_loc$results[[1]]$location
 user_dt$origin <- paste(user_dt$lat,"+",user_dt$lng,sep="")
 destination="51.49293+-0.14093"
 
-unique_combo <- unique(user_dt[,c(2,3,4)])
+unique_combo <- unique(user_dt[,c(1,2,3)])
 
 
 calcDistance <- function(origin){
@@ -37,12 +37,13 @@ return(list_res)
 }
 
 start <- 1
-finish <- 25
+complete <- 25
 i <- 1
 n <- dim(unique_combo)[1]/25
-
+cat("Total iteration",n)
 for(j in 1:n)
 {
+	print(i)
 	distance_df <- do.call("rbind", apply(as.matrix(unique_combo$origin[start:complete]),1,calcDistance))
 	if(i==1){
 	distance_complete <- distance_df}else{distance_complete <- rbind(distance_complete,distance_df)}

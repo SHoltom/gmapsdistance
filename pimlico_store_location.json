@@ -1,0 +1,398 @@
+{
+  "page_meta": {
+    "limit": 20, 
+    "offset": 0, 
+    "total": 1
+  }, 
+  "results": [
+    {
+      "closed": null, 
+      "code": "0009", 
+      "contact": {
+        "address1": "99 Wilton Road", 
+        "address2": "", 
+        "city": "LONDON", 
+        "county": "", 
+        "manager": "Pete Brown", 
+        "post_code": "SW1V 1DT", 
+        "telephone": "020 7931 8988"
+      }, 
+      "district_code": "0009", 
+      "exception_times": [
+        {
+          "date": "2016-08-29", 
+          "description": "Bank Holiday", 
+          "end_time": "23:00", 
+          "reason": 5, 
+          "start_time": "07:00"
+        }
+      ], 
+      "facilities": [
+        {
+          "category_id": 9, 
+          "category_name": "Online Services", 
+          "description": null, 
+          "id": 1, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "Click & Collect", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }, 
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "description": null, 
+          "id": 2, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "ATM", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "description": null, 
+          "id": 3, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "Bakery", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "description": null, 
+          "id": 4, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "Self Checkout", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "description": null, 
+          "id": 5, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "Hot Food Counter", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "description": null, 
+          "id": 6, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "National Lottery", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "description": null, 
+          "id": 7, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "Induction Loop", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "description": null, 
+          "id": 8, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "Floral", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "description": null, 
+          "id": 9, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "Accessible Toilets", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "description": null, 
+          "id": 10, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "Deli", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }, 
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "description": null, 
+          "id": 15, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "Saveback", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "description": null, 
+          "id": 16, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "Toilets", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "description": null, 
+          "id": 18, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "Greetings Cards", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "description": null, 
+          "id": 22, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "Baby Change", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "description": null, 
+          "id": 23, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "Fish Counter", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "description": null, 
+          "id": 28, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "Parking", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "description": null, 
+          "id": 29, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "Meat Counter", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "TU Clothing range", 
+          "description": null, 
+          "id": 33, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "Jewellery", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "description": null, 
+          "id": 45, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "Cookware", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Health", 
+          "charity_name": "Teenage Cancer Trust", 
+          "charity_url": "http://www.teenagecancertrust.org", 
+          "nomination_number": 1, 
+          "registered_charity_number": "1062559", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Youth/Employability", 
+          "charity_name": "The Pimlico Foundation", 
+          "charity_url": "http://pimlicofoundation.com/", 
+          "nomination_number": 2, 
+          "registered_charity_number": "1159844", 
+          "winner": false
+        }
+      ], 
+      "location": {
+        "lat": "51.49293", 
+        "lon": "-0.14093"
+      }, 
+      "name": "Pimlico", 
+      "open": {
+        "current_date": "2016-08-15", 
+        "current_time": "11:59", 
+        "is_open": true, 
+        "open_until": "23:00", 
+        "today": {
+          "24hrs": false, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        "tomorrow": {
+          "24hrs": false, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }
+      }, 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "17:00", 
+          "start_time": "11:00"
+        }
+      ], 
+      "other_name": "Pimlico", 
+      "permanently_closed": null, 
+      "store_type": "main"
+    }
+  ]
+}

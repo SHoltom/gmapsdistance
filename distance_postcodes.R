@@ -10,10 +10,10 @@ library(gmapsdistance)
 API_key <- "AIzaSyAQND4Ah_R-5lLbuBQQLCVeNkm82c9xZ9k"
 
 #Read the pimplico postcodes
-user_dt <- read.csv("../data/Pimlico_Postcode.csv")
+user_dt <- read.csv("Second_part_store_postcodes.csv")
 
 #Read the store location for pimlico
-store_loc <- fromJSON(file = "../data/pimlico_store_location.json")
+store_loc <- fromJSON(file = "pimlico_store_location.json")
 location <- store_loc$results[[1]]$location
 
 
@@ -51,4 +51,5 @@ for(j in 1:n)
 	complete <- start+25
 }
 
+write.csv(distance_complete,file="distance_matrix.csv",quote=F,row.names=F)
 

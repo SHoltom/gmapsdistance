@@ -1,0 +1,681 @@
+{
+  "page_meta": {
+    "limit": 20, 
+    "offset": 0, 
+    "total": 2
+  }, 
+  "results": [
+    {
+      "closed": null, 
+      "code": "0069", 
+      "contact": {
+        "address1": "45 Garratt Lane", 
+        "address2": null, 
+        "city": "London", 
+        "county": null, 
+        "manager": "Mike Miller", 
+        "post_code": "SW18 4AD", 
+        "telephone": "020 8871 9888"
+      }, 
+      "district_code": "0069", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 9, 
+          "category_name": "Online Services", 
+          "description": null, 
+          "id": 1, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "Click & Collect", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }, 
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "description": null, 
+          "id": 2, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "ATM", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "description": null, 
+          "id": 3, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "Bakery", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "description": null, 
+          "id": 4, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "Self Checkout", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "description": null, 
+          "id": 5, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "Hot Food Counter", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "description": null, 
+          "id": 7, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "Induction Loop", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "description": null, 
+          "id": 8, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "Floral", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "description": null, 
+          "id": 9, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "Accessible Toilets", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "description": null, 
+          "id": 10, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "Deli", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "description": null, 
+          "id": 12, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "News & Magazines", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "TU Clothing range", 
+          "description": null, 
+          "id": 14, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "Womenswear", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "description": null, 
+          "id": 16, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "Toilets", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "description": null, 
+          "id": 18, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "Greetings Cards", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "TU Clothing range", 
+          "description": null, 
+          "id": 20, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "Menswear", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }, 
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "description": null, 
+          "id": 21, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "Travel Money", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "description": null, 
+          "id": 22, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "Baby Change", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "description": null, 
+          "id": 23, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "Fish Counter", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "description": null, 
+          "id": 25, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "CDs & DVDs", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "TU Clothing range", 
+          "description": null, 
+          "id": 27, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "Kidswear", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "description": null, 
+          "id": 28, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "Parking", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "description": null, 
+          "id": 29, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "Meat Counter", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "description": null, 
+          "id": 31, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "Computer Games", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "TU Clothing range", 
+          "description": null, 
+          "id": 33, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "Jewellery", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "description": null, 
+          "id": 35, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "Books", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "description": null, 
+          "id": 37, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "TVs & Digital", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "description": null, 
+          "id": 39, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "Sainsbury's Restaurant", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "description": null, 
+          "id": 40, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "Phones", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "description": null, 
+          "id": 42, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "Small Domestic Appliances", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "description": null, 
+          "id": 43, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "Toys", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "description": null, 
+          "id": 44, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "Homewares", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "description": null, 
+          "id": 45, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "Cookware", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "description": null, 
+          "id": 46, 
+          "image_url": null, 
+          "is_live": null, 
+          "name": "Home Textiles", 
+          "store_types": [
+            "local", 
+            "main", 
+            "pfs", 
+            "restaurant"
+          ]
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "description": "Freshly made sushi made in store", 
+          "id": 77, 
+          "image_url": "", 
+          "is_live": true, 
+          "name": "Sushi Bar", 
+          "store_types": []
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Youth/Employability", 
+          "charity_name": "Business Launchpad", 
+          "charity_url": "http://www.businesslaunchpad.org.uk/", 
+          "nomination_number": 1, 
+          "registered_charity_number": "299599", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Youth/Employability", 
+          "charity_name": "Wandsworth Chelsea and Fulham unit 278 of the Sea Cadet Corps", 
+          "charity_url": "http://www.sea-cadets.org/wandsworth/about-our-unit.aspx", 
+          "nomination_number": 2, 
+          "registered_charity_number": "303283", 
+          "winner": true
+        }, 
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "Wandsworth Youth River Club", 
+          "charity_url": null, 
+          "nomination_number": 3, 
+          "registered_charity_number": "293841", 
+          "winner": false
+        }
+      ], 
+      "location": {
+        "lat": "51.45461", 
+        "lon": "-0.19080"
+      }, 
+      "name": "Wandsworth", 
+      "open": {
+        "current_date": "2016-08-15", 
+        "current_time": "12:01", 
+        "is_open": true, 
+        "open_until": "22:00", 
+        "today": {
+          "24hrs": false, 
+          "end_time": "22:00", 
+          "start_time": "08:00"
+        }, 
+        "tomorrow": {
+          "24hrs": false, 
+          "end_time": "22:00", 
+          "start_time": "08:00"
+        }
+      }, 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "22:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "22:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "22:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "22:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "22:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "22:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "17:00", 
+          "start_time": "11:00"
+        }
+      ], 
+      "other_name": "Wandsworth", 
+      "permanently_closed": null, 
+      "store_type": "main"
+    }, 
+    {
+      "closed": null, 
+      "code": "3015", 
+      "contact": {
+        "address1": "45 Garrett Lane", 
+        "address2": "", 
+        "city": "LONDON", 
+        "county": "", 
+        "manager": "TBC", 
+        "post_code": "SW18 4AD", 
+        "telephone": ""
+      }, 
+      "district_code": "0069", 
+      "exception_times": [], 
+      "facilities": [], 
+      "local_charities": [], 
+      "location": {
+        "lat": "51.45461", 
+        "lon": "-0.19080"
+      }, 
+      "name": "Wandsworth CS", 
+      "open": {
+        "current_date": "2016-08-15", 
+        "current_time": "12:01", 
+        "is_open": true, 
+        "open_until": "19:00", 
+        "today": {
+          "24hrs": false, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        "tomorrow": {
+          "24hrs": false, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }
+      }, 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "16:30", 
+          "start_time": "10:30"
+        }
+      ], 
+      "other_name": "Wandsworth CS", 
+      "permanently_closed": null, 
+      "store_type": "restaurant"
+    }
+  ]
+}
